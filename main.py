@@ -48,7 +48,7 @@ async def get_homepage():
     </head>
     <body>
         <div class="container">
-            <h1>🚀 FastAPI Backend : By Prachi</h1>
+            <h1>🚀 FastAPI Backend : By Mayank Jonwal</h1>
             <p>Welcome to your FastAPI application!</p>
             <div class="info">
                 <p>Running in Docker container</p>
